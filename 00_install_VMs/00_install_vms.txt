@@ -1,0 +1,6 @@
+## - Installed VM's
+
+1. Windows_Server_2022_22H2_225110_Multilingual_PreActivated_May_2022 [FTUApps]
+2. Windows_11_PRO_22000.120_21H2_X64FRE_EN-US_PRE-ACTIVATED [FTUApps]
+
+These were installed following the normal setup and then click the skip/cancel/deny licence check. 
